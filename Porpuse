@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-latam">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mi</title>
+    <link rel="stylesheet" href="./style/Style.css">
+</head>
+<body>
+    <header class="header">
+    <nav class="header-menu">
+        <a class="header-menu-link" href="index.html">Home</a>
+        <a class="header-menu-link" href="about.html">Sobe mi</a>
+    </nav>
+</header>
+</body>
+<main  class="presentacion">
+<section class="presentacion-contenido">
+    <h1 class="presentacion-texto">Sobe mi</h1>
+    <p class="contenido">Debo poner informacion sobre mi</p>
+    <p class="contenido">Debo poner informacion sobre mi</p>
+    </section>
+    <img src="./asset/OfficePhoto.jpg" alt="Imagen de Rauddy Lopez">
+</main> 
+<footer>
+    <p class="footer">&copy;Desarrollado por Rauddy Lopez</p>
+</footer>
+</html>
